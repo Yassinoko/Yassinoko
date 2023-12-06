@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinoko&label=Profile%20views&color=0e75b6&style=flat" alt="yassinoko" /> </p>
 
-- 🔭 I’m currently working on [Dynamic Player Insights](https://kickvision.streamlit.app/)
+- 🔭 I just finished working on a team project with Le Wagon [Dynamic Player Insights](https://kickvision.streamlit.app/)
 
 - 👯 I’m looking to collaborate on **any challenging data-related projects.**
 
