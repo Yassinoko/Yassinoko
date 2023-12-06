@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hello there 👋, I'm Yassine Bouaine</h1>
 <h3 align="center">A passionate Data Scientist from Belgium who is always open to new quests !</h3>
 
@@ -14,7 +13,7 @@ preview
 
 - 📄 Know about my experiences [https://flowcv.com/resume/jraib8q6k7](https://flowcv.com/resume/jraib8q6k7)
 
-- ⚡ Fun fact **I want to learn to do a muscle-up :(**
+- ⚡ Fun fact : **I want to learn to do a muscle-up :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
